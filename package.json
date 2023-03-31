@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/google-apps-script": "^1.0.59",
+    "typescript": "^5.0.3"
+  }
+}

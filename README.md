@@ -1,0 +1,6 @@
+# GASでスプレッドシートA列をGoogleSlideのタイトルにする
+
+ChatGPT 3.5とCopilotに聞きながら書いてみるテスト。
+ちょこちょこAPIがundefinedになるので、そこは人力で修正する感じであった。
+
+あと、GASのエディタよりもclasp使ってVSCodeとTSで書くのが楽だとわかった。
